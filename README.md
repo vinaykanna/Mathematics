@@ -1,2 +1,2 @@
 # Mathematics
-This repository contains all my learnings about a subject - **Mathematics**.
+This repository contains all of my learnings about a subject - **Mathematics**.
